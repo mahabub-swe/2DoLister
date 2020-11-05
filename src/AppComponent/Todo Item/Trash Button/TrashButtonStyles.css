@@ -1,0 +1,8 @@
+.trushButton{
+    width: 15%;
+    background-color: #8b0000;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

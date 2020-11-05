@@ -1,0 +1,16 @@
+.createButton button{
+    background-color: #00695C;
+    border: none;
+    height: 100%;
+    color: white;
+    padding: 0 15px;
+    border-radius: 5px;
+    font-size: 1.1rem;
+}
+
+.createButton button:focus{
+    outline: none;    
+}
+.createButton button:hover{
+    cursor: pointer;
+}

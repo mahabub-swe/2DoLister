@@ -1,0 +1,12 @@
+.doneButton{
+    width: 15%;
+    background-color: #004D40;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+.doneButton:focus{
+    outline: none;
+}

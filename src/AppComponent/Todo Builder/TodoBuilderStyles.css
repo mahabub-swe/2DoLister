@@ -1,0 +1,7 @@
+.todoBuilder{
+    display: flex;
+    margin: 70px 0 20px 0 ;
+}
+.todoBuilder *{
+    margin: 0 2.5px;
+}

@@ -1,0 +1,11 @@
+.todoCreator input{
+    width: 200px;
+    height: 40px;
+    background-color: #d0c4c4;
+    border-radius: 5px;
+    border: none;
+    font-size: 1.1rem;
+}
+.todoCreator input:focus{
+    outline: none;
+}
